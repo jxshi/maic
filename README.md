@@ -79,3 +79,7 @@ Examples are included in the folder example_input_and_result with simulated inpu
   When RankLarge data with high heterogeneity (See Wang et al [https://doi.org/10.1093/bioinformatics/btac621]) is used, the algorithm will output:
 
   "Warning! Your dataset has the unusual combination of ranked-only data, high heterogeneity and a relatively large number of sources (11) included. Based on these features we think you'd get better results from running BIRRA [http://www.pitt.edu/~mchikina/BIRRA/]. See Wang et al [https://doi.org/10.1093/bioinformatics/btac621] for an explanation of how we evaluated this."
+
+# AMP planning documents
+
+This repository now also includes an AMP planning/design note for the requested database schema and three-source integration flow. See `docs/amp_database_design.md` for the proposed logical schema, normalization rules, and ETL flowchart.
