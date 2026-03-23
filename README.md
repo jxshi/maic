@@ -82,4 +82,4 @@ Examples are included in the folder example_input_and_result with simulated inpu
 
 # AMP planning documents
 
-This repository now also includes an AMP planning/design note for the requested database schema and three-source integration flow. See `docs/amp_database_design.md` for the proposed logical schema, normalization rules, and ETL flowchart. It also includes `docs/amp_instruction_tuning_dataset_template.md` for the instruction fine-tuning dataset template requested for AMP model training.
+This repository now also includes an AMP planning/design note for the requested database schema and three-source integration flow. See `docs/amp_database_design.md` for the proposed logical schema, normalization rules, and ETL flowchart.
